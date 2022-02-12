@@ -1,5 +1,4 @@
 <h1 align="center">Sup Hackers</h1>
-<h3 align="center">I am 16 year old coder</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img src="https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif" alt="Anonymous Github"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doxland&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous" /> </p>
