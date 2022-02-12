@@ -10,7 +10,7 @@
 
 - 💻Group [Cyber-Crew](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 💬 Ask me about **python,rats and malware**
+- 💬 Ask me about **C#, python, rats and malware**
 
 - 📫 How to reach me **Anonymous**
 
